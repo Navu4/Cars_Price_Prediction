@@ -1,5 +1,7 @@
 # Cars_Price_Prediction
 
+> Note Book [Link](https://github.com/Navu4/Cars_Price_Prediction/blob/main/Car_price_prediction.ipynb)
+
 # Problem Statement
 ### Cars Price Prediction and Evaluation(Car_price.csv)
 - Draw important conclusion from the data (eg. priceUSD vs Mileage or year and
