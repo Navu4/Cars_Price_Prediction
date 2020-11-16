@@ -1,6 +1,7 @@
 # Cars_Price_Prediction
 
-> NoteBook [Link](https://github.com/Navu4/Cars_Price_Prediction/blob/main/Car_price.ipynb)      [Dataset](https://github.com/Navu4/Cars_Price_Prediction/blob/main/cars_price.csv) 
+> [NoteBook](https://github.com/Navu4/Cars_Price_Prediction/blob/main/Car_price.ipynb)     
+> [Dataset](https://github.com/Navu4/Cars_Price_Prediction/blob/main/cars_price.csv) 
 
 # Problem Statement
 ### Cars Price Prediction and Evaluation(Car_price.csv)
